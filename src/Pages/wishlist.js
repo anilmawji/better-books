@@ -4,10 +4,8 @@ import React from 'react';
 function Orders() {
     return (
 
-
         <div class="container py-3">
             <header>
-
                 <div class="pricing-header p-3 pb-md-4 mx-auto text-center">
                     <h1 class="display-6 fw-normal">Wishlist</h1>
                 </div>
@@ -42,7 +40,6 @@ function Orders() {
                 </tbody>
             </table>
             
-
             <div class="btn-toolbar">
                 <button id="button1" class="btn btn-dark mr-2">Add Selected to Cart</button>
                 <button id="button2" class="btn btn-dark mr-2">Add All to Cart</button>

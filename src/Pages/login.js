@@ -21,7 +21,6 @@ function App() {
     if (value === justifyActive) {
       return;
     }
-
     setJustifyActive(value);
   };
 
@@ -66,7 +65,7 @@ function App() {
           <MDBInput wrapperClass='mb-4' label='Password' id='form1' type='password'/>
 
           <div className='d-flex justify-content-center mb-4'>
-            <MDBCheckbox name='flexCheck' id='flexCheckDefault' label='I have read and agree to the terms' />
+            <MDBCheckbox name='flexCheck' id='flexCheckDefault' label='I have read and agree to the terms'/>
           </div>
 
           <MDBBtn className="mb-4 w-100">Sign up</MDBBtn>

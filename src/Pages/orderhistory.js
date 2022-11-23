@@ -1,19 +1,14 @@
 
 import React from 'react';
 
-function Orders(props, state) {
+function Orders() {
     return (
-
-    
         <div class="container py-3">
             <header>
-
                 <div class="pricing-header p-3 pb-md-4 mx-auto text-center">
                     <h1 class="display-6 fw-normal">Order History</h1>
                 </div>
             </header>
-
-
 
             <table class="table table-bordered">
             <caption>Orders</caption>

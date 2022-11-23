@@ -11,7 +11,6 @@ function Orders() {
     <p class="fw-bold">Payment Status</p>
     <p class="fw-bold">Fulfillment Status </p>
 
-    
         <table class="table table-bordered">
             <thead class="thead-dark">
                 <tr>
